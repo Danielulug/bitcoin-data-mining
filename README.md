@@ -17,11 +17,11 @@ matplotlib.pyplot
 datetime
 
 ## Project Motivation <a name="motivation"></a>
-"Bitcoin is the currency of the Internet: a distributed, worldwide, decentralized digital money. Unlike traditional currencies such as dollars, bitcoins are issued and managed without any central authority whatsoever: there is no government, company, or bank in charge of Bitcoin. As such, it is more resistant to wild inflation and corrupt banks. With Bitcoin, you can be your own bank." -- r/bitcoin
+"Bitcoin is the currency of the Internet: a distributed, worldwide, decentralized digital money. Unlike traditional currencies such as dollars, bitcoins are issued and managed without any central authority whatsoever: there is no government, company, or bank in charge of Bitcoin. As such, it is more resistant to wild inflation and corrupt banks. With Bitcoin, you can be your own bank." -- [r/bitcoin](https://www.reddit.com/r/Bitcoin/)
 
 This brief summary of bitcoin is as good as it gets. It has been around for 10 years now. It has catched anyones attention at least once in this period and has been centerpoint of media, internet and discussions all over the world. What most common people are interested in is the volatile worth of bitcoin and the big profits it has been possible to make over the years with just the right timing of investment.
 
-Bitcoin is mainly obtained and trained in big exchange sites such as coinbase and bitstamp. The main currency it is based on is USD and can be exchanged real-time.
+This project will try to find the right time to invest or cash out from bitcoin by predicting the trends for bitcoin in short term futures. 
 
 
 ## File Descriptions <a name="files"></a>
