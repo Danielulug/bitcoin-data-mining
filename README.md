@@ -13,7 +13,7 @@ sklearn
 pandas  
 numpy  
 xgboost
-matplotlib.pyplot
+matplotlib.pyplot  
 datetime
 
 ## Project Motivation <a name="motivation"></a>
